@@ -25,3 +25,7 @@ their current ticket if they placed one.
 * Sport events include football and tennis matches. In football matches the user can bet
 on the home team, the guest team and a tie. In tennis matches the user can only bet on
 one side winning.
+
+## How to start ?
+* cd backend & npm i, after that npm start
+* cd ui & npm i, after that npm start
