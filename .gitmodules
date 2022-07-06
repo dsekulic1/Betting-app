@@ -1,0 +1,3 @@
+[submodule "app/ui"]
+	path = app/ui
+	url = https://github.com/dsekulic1/Betting-app
