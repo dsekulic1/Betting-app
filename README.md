@@ -1,7 +1,5 @@
 # Betting-app
-Simple betting is to simulate an online betting app in which registered users can place bets
-on sports events. It is created using React.js on frontend, with Node.js, express and postgresql on backend. Some Unit testing on backend is done using chai and mocha.
-For desing is use MUI
+Simple betting is to simulate an online betting app in which registered users can place bets on sports events. It is created using React.js on frontend, with Node.js (Express) and PostgreSQL on backend. Some Unit testing on backend is done using chai and mocha. MUI is used for design.
 
 ## The application should consist of:
 * A register page where users can sign up
